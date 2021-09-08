@@ -1,2 +1,2 @@
-# FERNANDOJordania.gitHub.io
+# FERNANDOJordania.github.io
 Proyectos certus publicados en gitHub page
